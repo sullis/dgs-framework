@@ -29,7 +29,7 @@ plugins {
     id("nebula.dependency-recommender") version "11.0.0"
 
     id("nebula.netflixoss") version "11.1.1"
-    id("org.jmailen.kotlinter") version "3.11.1"
+    id("org.jmailen.kotlinter") version "3.13.0"
     id("me.champeau.jmh") version "0.6.6"
 
     kotlin("jvm") version Versions.KOTLIN_VERSION
